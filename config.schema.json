@@ -1,5 +1,5 @@
 {
-  "pluginAlias": "ExampleHomebridgePlugin",
+  "pluginAlias": "NissanConnect",
   "pluginType": "platform",
   "singular": true,
   "schema": {
